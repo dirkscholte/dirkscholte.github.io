@@ -13,7 +13,7 @@ I am deriving gas mass estimates from spectroscopy using photoionization modelli
 ### ORBYTS Galaxies: Discovering the relation between star formation and molecular gas in galaxies
 Project using MUSE and ALMA data.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c3ece34a-7581-11ec-abb7-b9a7ff2ee17c"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="805" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c3ece34a-7581-11ec-abb7-b9a7ff2ee17c"></iframe>
 
 ## Previous projects
 
