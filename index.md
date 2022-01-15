@@ -12,8 +12,13 @@ We are using DESI BGS (and in the first instance the Science Validation data) to
 ### The role of gas in the stellar-halo connection
 We are deriving the baryon-halo mass relation (expansion of the SHMR) for star forming galaxies using the DESI BGS sample. We will study the role of the total baryon mass in the scatter of the SHMR. The total baryon mass is calculated through the sum of stellar mass and gas mass of galaxies. The total gas mass is estimated directly from the spectra through fitting of the emission lines to models using Cloudy photoionization. We derive halo masses using galaxy-galaxy lensing measurements. We will make use of existing shape catalogs from KiDS, SDSS, and DES.
 
+### Photoionization modelling of HII regions
+We produced photoionization models using Cloudy to simulate the emission line fluxes for HII regions with a range of physical conditions. The photoionization models are used to train a neural network for approximate posterior inference using Simulation Based Inference (Tejero-Cantero et al. 2020). We use these models to derive the physical characteristics of observed galaxies using the measured emission line fluxes in their spectra.
+
+![photoionization](photoionization_model_BPT.png)
+
 ### ORBYTS Galaxies: Discovering the relation between star formation and molecular gas in galaxies
-This is a project we are developing to be taught in schools, giving students an opportunity to do astronomy research. We will study high-resolution MUSE and ALMA observations of nearby galaxies in the PHANGS survey. 
+This is a project we are developing to be taught in schools, giving students an opportunity to do astronomy research. We will study high-resolution MUSE and ALMA observations of nearby galaxies in the PHANGS survey (Emsellem et al. 2021, Leroy et al. 2021). 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="805" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c3ece34a-7581-11ec-abb7-b9a7ff2ee17c"></iframe>
 
