@@ -1,2 +1,1 @@
-You can find my cv below: 
-![cv](cv_02-05-2022.pdf)
+You can find my cv here: <a href="dirkscholte.github.io/cv_02-05-2022.pdf" target="_blank">PDF.</a>
