@@ -4,6 +4,8 @@ I am a PhD candidate in Extragalactic Astrophysics at UCL. I am studying galaxy 
 
 I am deriving gas mass estimates from spectroscopy using photoionization modelling and machine learning. Using weak lensing to derive dark matter halo masses.
 
+You can find my cv here: <a href="https://dirkscholte.github.io/cv_02-05-2022.pdf" target="_blank">PDF.</a>
+
 ## Current projects
 
 ### The mass-metallicity relation for star forming galaxies with DESI
