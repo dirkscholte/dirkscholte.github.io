@@ -8,8 +8,7 @@ You can find my cv here: <a href="https://dirkscholte.github.io/cv_02-05-2022.pd
 
 ## Current projects
 
-<iframe width="560" height="315" src="https://youtu.be/7yQjiKuqtYw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7yQjiKuqtYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Photoionization modelling of HII regions
 We produced photoionization models using Cloudy to simulate the emission line fluxes for HII regions with a range of physical conditions. The photoionization models are used to train a neural network for approximate posterior inference using Simulation Based Inference (Tejero-Cantero et al. 2020). We use these models to derive the physical characteristics of observed galaxies using the measured emission line fluxes in their spectra.
