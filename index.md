@@ -17,7 +17,7 @@ We are deriving the baryon-halo mass relation (expansion of the SHMR) for star f
 ### Photoionization modelling of HII regions
 We produced photoionization models using Cloudy to simulate the emission line fluxes for HII regions with a range of physical conditions. The photoionization models are used to train a neural network for approximate posterior inference using Simulation Based Inference (Tejero-Cantero et al. 2020). We use these models to derive the physical characteristics of observed galaxies using the measured emission line fluxes in their spectra.
 
-![photoionization](photoionization_model_BPT.png)
+![photoionization](BPT_diagrams.png)
 
 ### ORBYTS Galaxies: Discovering the relation between star formation and molecular gas in galaxies
 This is a project we are developing to be taught in schools, giving students an opportunity to do astronomy research. We will study high-resolution MUSE and ALMA observations of nearby galaxies in the PHANGS survey (Emsellem et al. 2021, Leroy et al. 2021). 
