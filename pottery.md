@@ -29,3 +29,11 @@ Pinch pot water jug.
 ![alt text](./images/pots_by_mirre.jpg)
 
 Some pots made by my sister and glazed together in crystal glazes.
+
+![alt text](./images/glazing_pot_fermentation_weights.jpg)
+
+Glazing a narrow neck coil pot and some fermentation weights.
+
+![alt text](./images/kiln_with_pots_fermentation_weights.jpg)
+
+A kiln full of my pots, bowls and fermentation weights (marbled clay using iron oxide).
