@@ -1,4 +1,4 @@
-# Dirk Scholte
+# PhD candidate in Astrophysics
 
 I am a PhD candidate in Extragalactic Astrophysics at UCL. I am studying galaxy evolution through some of the largest optical spectroscopic surveys.
 
