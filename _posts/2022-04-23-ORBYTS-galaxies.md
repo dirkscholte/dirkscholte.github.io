@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering the relation between star formation and molecular gas in galaxies"
+title:  "ORBYTS: Discovering the relation between star formation and molecular gas in galaxies"
 author: Dirk Scholte
 ---
 
