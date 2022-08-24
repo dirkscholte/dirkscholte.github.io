@@ -12,7 +12,7 @@
 
 ### 2021
 
-*The deadman dance* - Kim Scott
+*That deadman dance* - Kim Scott
 
 *Braiding sweetgrass* - Robin Wall Kimmerer
 
