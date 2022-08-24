@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 url: https://dirkscholte.github.io
-logo: ![profile_picture](profile_picture.png)
+logo: profile_picture.png
 show_downloads: false
 markdown: kramdown
