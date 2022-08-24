@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 url: https://dirkscholte.github.io
+title: Dirk Scholte
 logo: profile_picture.png
 show_downloads: false
 markdown: kramdown
