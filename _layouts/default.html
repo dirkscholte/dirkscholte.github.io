@@ -28,14 +28,16 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
-        <p class="view"><a href="https://www.linkedin.com/in/dirk-scholte/">LinkedIn</a></p>
-        <p class="view"><a href="https://twitter.com/DirkScholte">Twitter</a></p>
-        <p class="view"><a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Scholte%2C%20D.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">Publications</a></p>
-        <hr style="width:50%;text-align:left;margin-left:0">
-        <p class="view"><a href="https://dirkscholte.github.io/posts">Posts</a></p>
-        <p class="view"><a href="https://dirkscholte.github.io/books">Book Log</a></p>
-        <p class="view"><a href="https://dirkscholte.github.io/pottery">Pottery</a></p>
+        <ul{overflow:hidden; overflow-y:scroll;}>
+          <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+          <p class="view"><a href="https://www.linkedin.com/in/dirk-scholte/">LinkedIn</a></p>
+          <p class="view"><a href="https://twitter.com/DirkScholte">Twitter</a></p>
+          <p class="view"><a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Scholte%2C%20D.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">Publications</a></p>
+          <hr style="width:50%;text-align:left;margin-left:0">
+          <p class="view"><a href="https://dirkscholte.github.io/posts">Posts</a></p>
+          <p class="view"><a href="https://dirkscholte.github.io/books">Book Log</a></p>
+          <p class="view"><a href="https://dirkscholte.github.io/pottery">Pottery</a></p>
+        </ul>
         {% endif %}
 
         {% if site.show_downloads %}
