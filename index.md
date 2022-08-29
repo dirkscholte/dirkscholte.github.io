@@ -6,7 +6,7 @@ layout: default
 
 ![alt text](./images/UCL_portico.jpg)
 
-I am a PhD candidate in Extragalactic Astrophysics at University College London. I am studying galaxy evolution using some of the largest optical spectroscopic surveys. At UCL I am working with [Prof. Amelie Saintonge](http://www.star.ucl.ac.uk/~amelie/) and I am a member of the [DESI](https://www.desi.lbl.gov/) collaboration. My interests are in galaxy physics and evolution and I also have an interest in machine learning techniques, particularly likelihood-free inference methods.
+I am a PhD candidate in Extragalactic Astrophysics at University College London. I study galaxy evolution using some of the largest optical spectroscopic surveys. At UCL I work with [Prof. Amelie Saintonge](http://www.star.ucl.ac.uk/~amelie/) and I am a member of the [DESI](https://www.desi.lbl.gov/) collaboration. I also have an interest in machine learning techniques, particularly likelihood-free inference methods.
 
 Previously, I worked at the Jodrell Bank Observatory as part of their Science Engagement team in the Discovery Centre. I studied for my MSc at The University of Manchester and did my bachelors degree at Universiteit Utrecht in the Netherlands. Originally, I am from a small town in Noord-Brabant in the Netherlands and have lived in the UK for ~5 years.
 
