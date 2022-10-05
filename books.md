@@ -2,9 +2,13 @@
 
 ### 2022
 
+*No One is Talking About This* - Patricia Lockwood
+
 *The Nickel Boys* - Colson Whitehead
 
 *The Overstory* - Richard Powers
+
+*Small Bodies of Water* - Nina Mingya Powles
 
 *Klara and the Sun* - Kazuo Ishiguro
 
