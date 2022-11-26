@@ -2,6 +2,10 @@
 
 ### 2022
 
+*English Pastoral: An Inheritance* - James Rebanks
+
+*The Employees* - Olga Ravn
+
 *No One is Talking About This* - Patricia Lockwood
 
 *The Nickel Boys* - Colson Whitehead
