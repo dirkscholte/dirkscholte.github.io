@@ -10,6 +10,8 @@ I am a PhD Researcher in Extragalactic Astrophysics at University College London
 
 Previously, I worked at the Jodrell Bank Observatory as part of their Science Engagement team in the Discovery Centre. I studied for my MSc at The University of Manchester and did my bachelors degree at Universiteit Utrecht in the Netherlands. Originally, I am from a small town in Noord-Brabant in the Netherlands and have lived in the UK for ~5 years.
 
+<a class="twitter-timeline" href="https://twitter.com/DirkScholte?ref_src=twsrc%5Etfw">Tweets by DirkScholte</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
