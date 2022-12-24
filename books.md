@@ -2,6 +2,8 @@
 
 ### 2022
 
+*Bewilderment* - Richard Powers
+
 *English Pastoral: An Inheritance* - James Rebanks
 
 *The Employees* - Olga Ravn
