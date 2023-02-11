@@ -1,5 +1,9 @@
 # Recently read books
 
+### 2023
+
+*Gathering Moss* - Robin Wall Kimmerer
+
 ### 2022
 
 *Bewilderment* - Richard Powers
