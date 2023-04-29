@@ -3,6 +3,12 @@ layout: default
 ---
 
 # PhD Researcher in Astrophysics
+***Highlights:*** <marquee behavior="scroll" direction="left"> 
+  29/03 Lunch talk at Siena College
+  23/03 Talk at Pittsburgh University
+  17/03 KIPAC Tea Talk at Stanford KIPAC/SLAC
+  13/03 Research visit to UC Santa Cruz 
+</marquee>
 
 ![alt text](./images/UCL_portico.jpg)
 
