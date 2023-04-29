@@ -5,10 +5,10 @@ layout: default
 # PhD Researcher in Astrophysics
 <marquee behavior="scroll" direction="left"> 
   <b>
-    29/03 Lunch talk at Siena College ---
-    23/03 Talk at Pittsburgh University ---
-    17/03 KIPAC Tea Talk at Stanford KIPAC/SLAC ---
-    13/03 Research visit to UC Santa Cruz ---
+    29/03 Lunch talk at Siena College                                                                                     
+    23/03 Talk at Pittsburgh University                                                                                     
+    17/03 KIPAC Tea Talk at Stanford KIPAC/SLAC                                                                                     
+    13/03 Research visit to UC Santa Cruz 
   </b>
 </marquee>
 
