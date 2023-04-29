@@ -10,7 +10,7 @@
 
 `13/03` Research visit to UC Santa Cruz
 
-### 2022
+## 2022
 
 `20/12` **On the Arxiv:**[The impact of gas accretion and AGN feedback on the scatter of the mass-metallicity relation; *Yang, Scholte & Saintonge*](https://arxiv.org/abs/2212.10657)
 
