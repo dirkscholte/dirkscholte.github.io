@@ -1,10 +1,10 @@
 # Recently read books
 
-### 2023
+## 2023
 
 *Gathering Moss* - Robin Wall Kimmerer
 
-### 2022
+## 2022
 
 *Bewilderment* - Richard Powers
 
@@ -26,7 +26,7 @@
 
 *The House of the Mosque* - Kader Abdolah 
 
-### 2021
+## 2021
 
 *That Deadman Dance* - Kim Scott
 
