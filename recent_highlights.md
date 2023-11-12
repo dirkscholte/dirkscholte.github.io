@@ -2,6 +2,10 @@
 
 ## 2023
 
+`09/11` Coffee talk at the University of Edinburgh Institute for Astronomy
+
+`07/11` Invited Seminar at St Andrews University
+
 `29/03` Lunch talk at Siena College
 
 `23/03` Talk at Pittsburgh University
