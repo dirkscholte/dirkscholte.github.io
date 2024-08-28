@@ -13,5 +13,3 @@ Some of my main research interests are:
 - Chemical enrichment of galaxies in both the early and local Universe. 
 
 I completed my PhD in Astrophysics at University College London. Previously, I also worked at the Jodrell Bank Observatory as part of their Science Engagement team in the Discovery Centre. I studied for my MSc at The University of Manchester and did my bachelors degree at Universiteit Utrecht in the Netherlands. Originally, I am from a small town in Noord-Brabant in the Netherlands.
-
-<a class="twitter-timeline" href="https://twitter.com/DirkScholte?ref_src=twsrc%5Etfw">Tweets by DirkScholte</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
