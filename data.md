@@ -5,7 +5,7 @@
 
 #### Atomic gas sequence
 Measurements of the atomic gas sequence for a mass complete sample of galaxies: 
-<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_line_flux_limited_mzr.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_mass_complete_fhi_sequence.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
 
 You can use the function below to plot the function we fitted to the data:
 ```python
@@ -14,7 +14,9 @@ def logfhi(logM, gamma0=-0.391854, gamma1= -0.75324106, beta=1.46898262, M0=9.29
     return logfhi7 + gamma0*np.log10((10**logM)/(10**7)) + (gamma1-gamma0)/beta * np.log10(1+((10**logM)/(10**M0))**beta)
 ```
 #### Mass-metallicity relation
-Measurements of the mass-metallicity relation for an emission line flux limited sample of galaxies: [Download here]().
+Measurements of the mass-metallicity relation for an emission line flux limited sample of galaxies:
+<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_line_flux_limited_mzr.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+
 
 You can use the function below to plot the function we fitted to the data:
 ```python
@@ -24,7 +26,8 @@ def mzr(mstar, Z0=8.854, M0=10.49, gamma1=0.2439, beta0=1.21):
 
 ```
 
-Measurements of the mass-metallicity relation for a mass complete sample: [Download here]().
+Measurements of the mass-metallicity relation for a mass complete sample:
+<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_representative_mzr.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
 
 ### Paper: Cold gas mass measurements for the era of large optical spectroscopic surveys
 **Link: [Scholte & Saintonge (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..353S/abstract)**
