@@ -1,4 +1,4 @@
-# Public data products
+# Data
 
 ### Paper: The atomic gas sequence and mass-metallicity relation from dwarfs to massive galaxies
 **Link: [Scholte et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S/abstract)**
