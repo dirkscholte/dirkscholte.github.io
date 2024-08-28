@@ -23,7 +23,6 @@ You can use the function below to plot the function we fitted to the data:
 def mzr(logmstar, Z0=8.854, M0=10.49, gamma1=0.2439, beta0=1.20):
     '''The mass-metallicity relation for an emission line flux limited sample'''
     return Z0 - gamma1/beta0 * np.log10(1+(10**logmstar/(10**M0))**-beta0)
-
 ```
 
 Measurements of the mass-metallicity relation for a representative sample of star-forming galaxies:
