@@ -4,7 +4,8 @@
 **Link: [Scholte et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S/abstract)**
 
 #### Atomic gas sequence
-Measurements of the atomic gas sequence for a mass complete sample of galaxies: [Download here](https://github.com/dirkscholte/dirkscholte.github.io/blob/main/BPT_diagrams.png "download").
+Measurements of the atomic gas sequence for a mass complete sample of galaxies: 
+<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_line_flux_limited_mzr.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
 
 You can use the function below to plot the function we fitted to the data:
 ```python
