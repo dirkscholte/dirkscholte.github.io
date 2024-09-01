@@ -3,11 +3,5 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background-image: url("../../images/copeland_septet.jpg"); /* The image used */
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
-}
+background: rgb(85,222,175);
+background: radial-gradient(circle, rgba(85,222,175,0.7245273109243697) 0%, rgba(115,112,200,0.788953081232493) 100%);
