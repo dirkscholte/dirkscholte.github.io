@@ -4,13 +4,18 @@
 @import "{{ site.theme }}";
 
 // Define color variables
-$primary-color: #200133;
+$primary-color: black;
 $secondary-color: #ffffff;
+
+// Body styling
+body {
+  background-color: $secondary-color;
+}
 
 // Header styling
 .header {
   background-color: $primary-color;
-  color: white;
+  color: $secondary-color;
   padding: 20px;
 }
 
@@ -21,7 +26,7 @@ $secondary-color: #ffffff;
 
 // Link styling
 a {
-  color: $primary-color;
+  color: $secondary-color;
   text-decoration: none;
 
   &:hover {
