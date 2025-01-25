@@ -2,3 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Define color variables
+$primary-color: #200133;
+$secondary-color: #ffffff;
+
+// Header styling
+.header {
+  background-color: $primary-color;
+  color: white;
+  padding: 20px;
+}
+
+// Content styling
+.content {
+  color:white;
+}
+
+// Link styling
+a {
+  color: $primary-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
