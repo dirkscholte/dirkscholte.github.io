@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Postdoctoral Research Associate in Astrophysics
+# Astrophysicist | Galaxy formation and evolution
 
-I work at the Institute for Astronomy at the University of Edinburgh. I am interested in understanding the formation and evolution of galaxies throughout cosmic time. Much of my work relies on spectroscopic observations of galaxies, for example from the James Webb Space Telescope and the Dark Energy Spectroscopic Instrument. 
+I work as a postdoc at the Institute for Astronomy at the University of Edinburgh. I am interested in understanding the formation and evolution of galaxies throughout cosmic time. My research focuses on the relation between star formation, chemical enrichment of galaxies and the baryon cycle over cosmic time. Much of my work relies on spectroscopic observations of galaxies, for example from the James Webb Space Telescope and the Dark Energy Spectroscopic Instrument. 
 
 Some of my main research interests are:
 - The accretion, bulk content and removal of gas from galaxies.
