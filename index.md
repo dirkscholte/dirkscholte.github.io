@@ -19,6 +19,6 @@ I completed my PhD in Astrophysics at University College London. Previously, I a
   <bsky-embed
     username="dirkscholte.bsky.social"
     mode="light"
-    limit="500"
+    limit="10"
   >
   </bsky-embed>
