@@ -14,3 +14,10 @@ Some of my main research interests are:
 
 I completed my PhD in Astrophysics at University College London. Previously, I also worked at the Jodrell Bank Observatory as part of their Science Engagement team in the Discovery Centre. I studied for my MSc at The University of Manchester and did my bachelors degree at Universiteit Utrecht in the Netherlands. Originally, I am from a small town in Noord-Brabant in the Netherlands.
 
+  <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+  <bsky-embed
+    username="dirkscholte.bsky.social"
+    mode="light"
+    limit="5"
+  >
+  </bsky-embed>
