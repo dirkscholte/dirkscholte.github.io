@@ -4,6 +4,10 @@ layout: default
 
 # Pottery
 
+![alt text](/images/bowl_norse_blue_sandstone.pdf)
+
+![alt text](/images/small_bowl_norse_blue_sandstone.pdf)
+
 Photos of some of my pots and other ceramics. These are both finished pots and work in progress pics! 
 
 ![alt text](/images/makespace_pots.jpg)
