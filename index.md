@@ -4,15 +4,15 @@ layout: default
 
 # Astrophysicist | Galaxy formation
 
-I work as a postdoc at the Institute for Astronomy at the University of Edinburgh. I am interested in understanding the formation and evolution of galaxies throughout cosmic time. My research focuses on the relation between star formation, chemical enrichment of galaxies and the baryon cycle over cosmic time. Much of my work relies on spectroscopic observations of galaxies, for example from the James Webb Space Telescope and the Dark Energy Spectroscopic Instrument. 
+I am a researcher at the Institute for Astronomy at the Royal Observatory Edinburgh, where I focus on understanding the formation and evolution of galaxies across cosmic time. My work explores how star formation, chemical enrichment, and the baryon cycle interact and evolve throughout the history of the Universe. I primarily use spectroscopic observations, including from the James Webb Space Telescope and the Dark Energy Spectroscopic Instrument, to probe these processes.
 
-Some of my main research interests are:
-- The accretion, bulk content and removal of gas from galaxies.
-- Understanding how complex networks of connected galaxy processes result in tight relations between observable quantities (e.g. the mass-metallicity relation).
-- The relation between galaxies and their dark matter haloes.
-- Chemical enrichment of galaxies in both the early and local Universe. 
+**My research interests include:**
+- The accretion, retention, and removal of gas from galaxies.
+- Understanding how interconnected galaxy processes lead to tight correlations between observable properties (e.g., the mass-metallicity relation).
+- The relationship between galaxies and their dark matter haloes.
+- The chemical enrichment of galaxies in both the early and local Universe.
 
-I completed my PhD in Astrophysics at University College London. Previously, I also worked at the Jodrell Bank Observatory as part of their Science Engagement team in the Discovery Centre. I studied for my MSc at The University of Manchester and did my bachelors degree at Universiteit Utrecht in the Netherlands. Originally, I am from a small town in Noord-Brabant in the Netherlands.
+I completed my PhD in Astrophysics at University College London and have a strong background in science engagement, having previously worked with the Jodrell Bank Observatory's Science Engagement team in the Discovery Centre. My MSc is from The University of Manchester, and I earned my bachelor's degree at Universiteit Utrecht in the Netherlands. I am originally from a small town in Noord-Brabant, the Netherlands.
 
 ## Recent updates
   <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
