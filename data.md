@@ -5,7 +5,15 @@ Here you can find some data products which are derived from work related to the 
 ### The JWST EXCELS survey: Probing strong line diagnostics and the chemical evolution of galaxies over cosmic time using Te-metallicities
 **Paper link: [Scholte et al. (2025)]()**
 
-#### The data files will be uploaded soon! Please check back later.
+The data files for the tables in the paper are available for download below. Please reach out if there are any issues.
+
+Table 3 (Properties of the EXCELS sample): <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte2025_excels.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+
+Table 4 (Properties of the DESI sample): <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte2025_desi.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+
+Table C1 (Line ratios of the EXCELS sample): <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte2025_excels_ratios.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+
+Line ratios of the DESI sample: <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte2025_desi_ratios.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
 
 --------------------
 
