@@ -21,10 +21,17 @@ Line ratios of the DESI sample: <a href="https://github.com/dirkscholte/dirkscho
 **Paper link: [Scholte et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S/abstract)**
 
 #### Atomic gas sequence
-Measurements of the atomic gas sequence for a mass complete sample of galaxies: 
-<a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_mass_complete_fhi_sequence.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>.
+Our measurements of the atomic gas fraction of galaxies are listed below (as in Table A1 in the paper). We measured the atomic gas fractions as a function of stellar mass for several sample selections, for more details on the sample selection see the paper. For most purposes we recommend you use the mass complete sample selection.
 
-You can use the function below to plot the function we fitted to the data:
+Mass complete selection: <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_fhi_mass_complete.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>
+
+r-band flux limited selection: <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_fhi_rband_limited.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>
+
+MZR sample selection: <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_fhi_mzr_selection.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>
+
+Representative SF selection: <a href="https://github.com/dirkscholte/dirkscholte.github.io/raw/main/data/scholte24_fhi_representative_sf.fits" download="true" data-testid="raw-button" data-loading="false" data-no-visuals="true" data-size="small" aria-describedby=":R5csptal9lab:-loading-announcement" class="types__StyledButton-sc-ws60qy-0 jUNlHb" data-hotkey="Meta+/ Meta+r"><span data-component="buttonContent" class="Box-sc-g0xbh4-0 kkrdEu"><span data-component="text">Download here</span></span></a>
+
+You can use the function below to plot the function we fitted to the mass complete data (parameters for fits to other samples can be found in our paper):
 ```python
 def logfhi(logmstar, gamma0=-0.14, gamma1= -0.854, beta=1.2, M0=8.98,logfhi7=0.45):
     '''The atomic gas sequence of a mass complete sample of galaxies.'''
