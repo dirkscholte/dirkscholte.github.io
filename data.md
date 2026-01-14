@@ -7,6 +7,8 @@ Here you can find some data products which are derived from work related to the 
 
 The data products for this paper are not yet public. Please check back in after the public data release of DESI DR2.
 
+--------------------
+
 ### The JWST EXCELS survey: Probing strong line diagnostics and the chemical evolution of galaxies over cosmic time using Te-metallicities
 **Paper link: [Scholte et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1800S/abstract)**
 
