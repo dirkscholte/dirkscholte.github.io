@@ -5,7 +5,8 @@ Here you can find some data products which are derived from work related to the 
 ### Electron temperature relations and the direct N, O, Ne, S and Ar abundances of 49959 star-forming galaxies in DESI Data Release 2
 **Paper link: [Scholte et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260102463S/abstract)**
 
-All the data required to reproduce the figures in the paper is stored on [Zenodo](https://zenodo.org/records/17839238). This does not includes TARGETIDs, redshifts or R.A. and Dec. coordinates. The remaining data products for this paper are not yet public. Please check back in after the public data release of DESI DR2. 
+All the data required to reproduce the figures in the paper is stored at [https://zenodo.org/records/17839238](https://zenodo.org/records/17839238). 
+This does not includes TARGETIDs, redshifts or R.A. and Dec. coordinates. The remaining data products for this paper are not yet public. Please check back in after the public data release of DESI DR2. 
 
 *Note: Whilst a significant amount of time was spent vetting the measurements, the size of the dataset required emission line fitting using an automated pipeline - not every spectrum or fitted emission line has been individually inspected. This should be noted when considering the properties of individual galaxies.*
 
