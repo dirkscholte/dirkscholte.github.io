@@ -4,27 +4,50 @@ layout: default
 
 # Astrophysicist | Galaxy formation
 
-I am a researcher at the Institute for Astronomy at the Royal Observatory Edinburgh, studying how galaxies form and evolve across cosmic time. My work explores how star formation, chemical enrichment, and the baryon cycle interact and evolve throughout the history of the Universe using spectroscopic surveys, including the James Webb Space Telescope and the Dark Energy Spectroscopic Instrument.
+I am a Postdoctoral Research Associate at the Institute for Astronomy, University of Edinburgh, based at the Royal Observatory. I study the chemical evolution and gas content of galaxies, combining large spectroscopic surveys of the nearby Universe with James Webb Space Telescope (JWST) observations of galaxies at intermediate and high redshift. I also use sub-mm and radio (21-cm) observations to measure the molecular and atomic gas that fuels star formation.
 
-**My research interests include:**
-- The accretion, retention, and removal of gas from galaxies.
-- Understanding how interconnected galaxy processes lead to tight correlations between observable properties (e.g., the mass-metallicity relation).
+I chair the Galaxy and Quasar Physics working group of the Dark Energy Spectroscopic Instrument (DESI) collaboration.
+
+### Research interests
+- The accretion, retention, and removal of gas from galaxies, traced with 21-cm, CO and optical emission lines.
+- How interconnected galaxy processes lead to tight correlations between observable properties, such as the mass-metallicity relation.
+- The chemical enrichment of galaxies from the local Universe to cosmic dawn, measured with direct electron-temperature abundances.
 - The relationship between galaxies and their dark matter haloes.
-- The chemical enrichment of galaxies in both the early and local Universe.
 
-I currently co-chair the Galaxy and Quasar Physics working group in the DESI collaboration. 
+<div class="features">
+  <a class="feature" href="/publications#scholte2026">
+    <img src="/images/publications/scholte2026_desi_abundance_ratios.png" alt="Abundance ratios of nitrogen, neon, sulphur and argon against oxygen abundance for DESI galaxies.">
+    <span class="feature-title">Chemical abundances of 50,000 nearby galaxies</span>
+    <span class="feature-meta">Scholte et al. 2026</span>
+  </a>
+  <a class="feature" href="/publications#scholte2025">
+    <img src="/images/publications/scholte2025_excels_mzr.png" alt="JWST EXCELS galaxies on the mass-metallicity plane, coloured by redshift.">
+    <span class="feature-title">Measuring metallicity in the early Universe with JWST</span>
+    <span class="feature-meta">Scholte et al. 2025</span>
+  </a>
+  <a class="feature" href="/publications#scholte2024">
+    <img src="/images/publications/scholte2024_atomic_gas_sequence_literature.png" alt="Atomic gas fraction against stellar mass compared with literature measurements.">
+    <span class="feature-title">Gas and metals from dwarfs to massive galaxies</span>
+    <span class="feature-meta">Scholte et al. 2024</span>
+  </a>
+</div>
+
+<p class="more-link"><a href="/publications">All publications →</a></p>
 
 ### Background
-I completed my PhD in Astrophysics at University College London and have a strong background in science engagement, having previously worked with the Jodrell Bank Observatory's Science Engagement team in the Discovery Centre. My MSc is from The University of Manchester, and I earned my bachelor's degree at Universiteit Utrecht in the Netherlands. I am originally from a small town in Noord-Brabant, the Netherlands.
+I completed my PhD in Astrophysics at University College London in 2024, where my thesis was awarded the Jon Darius Memorial Prize for outstanding PhD research in astrophysics. Before that, I earned an MSc in Astronomy and Astrophysics at The University of Manchester and a BSc in Physics and Astronomy at Universiteit Utrecht.
+
+Alongside research, I have a background in science communication: I worked full-time as a science communicator at Jodrell Bank Observatory. I am originally from Noord-Brabant, the Netherlands.
 
 ### Contact
-You can reach me by email on **dscholte [at] ed.ac.uk**
+<p><a class="button" href="mailto:dscholte@ed.ac.uk">Email me: dscholte@ed.ac.uk</a></p>
 
 ### Recent updates
-  <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-  <bsky-embed
-    username="dirkscholte.bsky.social"
-    mode="light"
-    limit="10"
-  >
-  </bsky-embed>
+<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed
+  username="dirkscholte.bsky.social"
+  mode="light"
+  limit="3"
+>
+</bsky-embed>
+<p class="more-link"><a href="https://bsky.app/profile/dirkscholte.bsky.social">More on Bluesky →</a></p>

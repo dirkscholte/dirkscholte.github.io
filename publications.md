@@ -9,7 +9,7 @@ Below are short summaries of my first-author papers. For a full list of publicat
 
 --------------------
 
-<div class="publication" markdown="1">
+<div class="publication" id="scholte2026" markdown="1">
 
 ### Electron temperature relations and the direct N, O, Ne, S and Ar abundances of 49959 star-forming galaxies in DESI Data Release 2
 **Scholte et al. (2026)** · [arXiv:2601.02463](https://arxiv.org/abs/2601.02463) · [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260102463S/abstract)
@@ -25,7 +25,7 @@ We present the largest catalogue of direct-method chemical abundances to date: n
 
 --------------------
 
-<div class="publication" markdown="1">
+<div class="publication" id="scholte2025" markdown="1">
 
 ### The JWST EXCELS survey: Probing strong-line diagnostics and the chemical evolution of galaxies over cosmic time using T<sub>e</sub>-metallicities
 **Scholte et al. (2025), MNRAS, 540, 1800** · [arXiv:2502.10499](https://arxiv.org/abs/2502.10499) · [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1800S/abstract)
@@ -41,7 +41,7 @@ Using JWST/NIRSpec spectra of 22 galaxies at redshifts 1.65–7.9 from the EXCEL
 
 --------------------
 
-<div class="publication" markdown="1">
+<div class="publication" id="scholte2024" markdown="1">
 
 ### The atomic gas sequence and mass-metallicity relation from dwarfs to massive galaxies
 **Scholte et al. (2024)** · [arXiv:2408.03996](https://arxiv.org/abs/2408.03996) · [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S/abstract)
@@ -57,7 +57,7 @@ Combining optical spectra from DESI with 21-cm radio observations from ALFALFA, 
 
 --------------------
 
-<div class="publication" markdown="1">
+<div class="publication" id="scholte2023" markdown="1">
 
 ### Cold gas mass measurements for the era of large optical spectroscopic surveys
 **Scholte & Saintonge (2023), MNRAS, 518, 353** · [arXiv:2210.05683](https://arxiv.org/abs/2210.05683) · [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..353S/abstract)

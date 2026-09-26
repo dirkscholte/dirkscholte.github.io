@@ -7,6 +7,8 @@
 $primary-color: white;
 $secondary-color: black;
 $tertiary-color: #7a64fa;
+$accent-color: #3730a3;
+$accent-hover-color: #4338ca;
 
 // Body styling
 body {
@@ -28,12 +30,12 @@ body {
 
 // Link styling
 a {
-  color: #376b6b;
+  color: $accent-color;
   text-decoration: none;
 
   &:hover {
     text-decoration: underline;
-    color: #62a3a3;
+    color: $accent-hover-color;
   }
 }
 
@@ -54,5 +56,118 @@ a {
     font-size: 0.85em;
     color: #666;
     margin-top: 0.5em;
+  }
+}
+
+// Sidebar photo
+header img {
+  border-radius: 12px;
+}
+
+// Home page
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  overflow: hidden;
+  color: inherit;
+
+  &:hover {
+    text-decoration: none;
+    color: inherit;
+    border-color: $accent-color;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 110px;
+    object-fit: contain;
+    background: white;
+    border-bottom: 1px solid #e5e5e5;
+  }
+}
+
+.feature-title {
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.35;
+  padding: 8px 10px 2px;
+  color: #222;
+}
+
+.feature-meta {
+  font-size: 0.75em;
+  color: #777;
+  padding: 0 10px 10px;
+}
+
+.more-link {
+  margin-top: 0.75em;
+  font-size: 0.9em;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 6px;
+  background: $accent-color;
+  color: white;
+
+  &:hover {
+    background: $accent-hover-color;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .features {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Section headings with a short accent underline
+section > h2,
+section > h3 {
+  &::after {
+    content: "";
+    display: block;
+    width: 32px;
+    height: 3px;
+    margin-top: 8px;
+    border-radius: 2px;
+    background: $accent-color;
+  }
+}
+
+// Accent-coloured bullets
+section ul li::marker {
+  color: $accent-color;
+}
+
+// Highlight the current page in the sidebar
+header p.view.active a {
+  position: relative;
+  color: $accent-color;
+  font-weight: 700;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -12px;
+    top: 0.15em;
+    bottom: 0.15em;
+    width: 3px;
+    border-radius: 2px;
+    background: $accent-color;
   }
 }

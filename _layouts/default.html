@@ -28,14 +28,15 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        {% assign current_page = page.url | remove: ".html" %}
         <ul{overflow:hidden; overflow-y:scroll;}>
-          <p class="view"><a href="https://dirkscholte.github.io/">Home</a></p>
+          <p class="view{% if current_page == '/' %} active{% endif %}"><a href="https://dirkscholte.github.io/">Home</a></p>
           <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p>
           <p class="view"><a href="https://www.linkedin.com/in/dirk-scholte/">LinkedIn</a></p>
           <p class="view"><a href="https://bsky.app/profile/dirkscholte.bsky.social">Bluesky</a></p>
-          <p class="view"><a href="https://dirkscholte.github.io/data">Data</a></p>
-          <p class="view"><a href="https://dirkscholte.github.io/publications">Publications</a></p>
-          <p class="view"><a href="https://dirkscholte.github.io/pottery">Pottery</a></p>
+          <p class="view{% if current_page == '/data' %} active{% endif %}"><a href="https://dirkscholte.github.io/data">Data</a></p>
+          <p class="view{% if current_page == '/publications' %} active{% endif %}"><a href="https://dirkscholte.github.io/publications">Publications</a></p>
+          <p class="view{% if current_page == '/pottery' %} active{% endif %}"><a href="https://dirkscholte.github.io/pottery">Pottery</a></p>
         </ul>
         {% endif %}
 
