@@ -49,8 +49,8 @@ Using JWST/NIRSpec spectra of 22 galaxies at redshifts 1.65–7.9 from the EXCEL
 Combining optical spectra from DESI with 21-cm radio observations from ALFALFA, we measure how the atomic gas content and metallicity of galaxies depend on stellar mass across five orders of magnitude, from dwarfs (10<sup>6.5</sup> M<sub>☉</sub>) to massive galaxies (10<sup>11.5</sup> M<sub>☉</sub>). The atomic gas sequence changes slope at around 10<sup>9</sup> M<sub>☉</sub>, and this change is imprinted on the mass-metallicity relation. This mass scale matches the point below which supernova-driven winds are expected to remove gas efficiently from low-mass galaxies.
 
 <figure>
-  <img src="/images/publications/scholte2024_mzr.png" alt="Mass-metallicity relation of DESI galaxies from a stellar mass of 10 to the 6 up to 10 to the 11 solar masses, showing individual detections, binned means with standard deviations, the best-fit relation and a residuals inset.">
-  <figcaption>The mass-metallicity relation of local galaxies measured from DESI spectra, extending well into the dwarf galaxy regime.</figcaption>
+  <img src="/images/publications/scholte2024_atomic_gas_sequence_literature.png" alt="Atomic gas fraction against stellar mass for our mass complete sample, with its best-fit relation, compared with six literature samples from Geha et al. 2006 to Karachentsev and Kaisina 2019. The gas fraction declines more steeply above about 10 to the 9 solar masses.">
+  <figcaption>The atomic gas sequence of our mass complete sample (yellow squares, black line) compared with measurements from the literature. Large symbols connected by dotted lines show the median of each survey; small symbols show individual measurements and upper limits.</figcaption>
 </figure>
 
 </div>
@@ -65,8 +65,8 @@ Combining optical spectra from DESI with 21-cm radio observations from ALFALFA, 
 Direct measurements of cold gas are only available for relatively small samples of galaxies. We show how gas masses can instead be estimated from optical emission lines, using photoionization models and simulation-based inference, and calibrate the method against PHANGS-ALMA and xCOLD GASS observations. Applied to SDSS galaxies, these gas masses reduce the scatter in the mass-metallicity relation more than star formation rate does, as predicted by models and simulations.
 
 <figure>
-  <img src="/images/publications/scholte2023_mzr_scatter.png" alt="Four panels showing the mass-metallicity relation of SDSS galaxies coloured by molecular gas mass, star formation rate, molecular gas fraction and specific star formation rate, with residual histograms as insets.">
-  <figcaption>The mass-metallicity relation coloured by molecular gas mass, gas fraction, star formation rate and specific star formation rate. Gas mass gives the smallest scatter in the resulting three-parameter relation.</figcaption>
+  <img src="/images/publications/scholte2023_photoionization_grids.jpg" alt="Three emission line diagnostic diagrams overlaid with coloured grids of photoionization models varying in metallicity, ionization parameter and dust-to-metal ratio, with SDSS galaxies shown as blue contours for star-forming galaxies and grey contours for other galaxies.">
+  <figcaption>Grids of photoionization models plotted on emission line diagnostic (BPT) diagrams, varying in metallicity, ionization parameter and dust-to-metal ratio. The contours show SDSS star-forming galaxies (blue) and other galaxies (grey).</figcaption>
 </figure>
 
 </div>
