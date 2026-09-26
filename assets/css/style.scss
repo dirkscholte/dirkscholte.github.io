@@ -36,3 +36,23 @@ a {
     color: #62a3a3;
   }
 }
+
+// Publications page
+.publication {
+  figure {
+    margin: 1em 0 0.5em;
+  }
+
+  figure img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  figcaption {
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 0.5em;
+  }
+}
