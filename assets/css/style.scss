@@ -205,8 +205,26 @@ section {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media screen and (max-width: 720px) {
+  body {
+    padding: 24px;
+  }
+
   section {
-    padding: 20px 16px;
+    padding: 24px;
+  }
+}
+
+// On phones, let the card run edge to edge to give the text more room
+@media screen and (max-width: 480px) {
+  body {
+    margin: 0;
+    padding: 15px;
+  }
+
+  section {
+    margin: 0 -15px 20px;
+    padding: 24px 15px;
+    border-radius: 0;
   }
 }
