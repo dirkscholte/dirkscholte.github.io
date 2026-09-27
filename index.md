@@ -9,9 +9,9 @@ I am a Postdoctoral Research Associate at the Institute for Astronomy, Universit
 I chair the Galaxy and Quasar Physics working group of the Dark Energy Spectroscopic Instrument (DESI) collaboration.
 
 ### Research interests
-- The accretion, retention, and removal of gas from galaxies, traced with 21-cm, CO and optical emission lines.
-- How interconnected galaxy processes lead to tight correlations between observable properties, such as the mass-metallicity relation.
 - The chemical enrichment of galaxies from the local Universe to cosmic dawn, measured with direct electron-temperature abundances.
+- The accretion, bulk content, and removal of gas from galaxies, traced with 21-cm, CO and optical emission lines.
+- How interconnected galaxy processes lead to tight correlations between observable properties, such as the mass-metallicity relation.
 - The relationship between galaxies and their dark matter haloes.
 
 <div class="features">
